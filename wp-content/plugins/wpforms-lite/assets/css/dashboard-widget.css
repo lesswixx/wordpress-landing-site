@@ -575,7 +575,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background: #fff url(http://localhost/wp-includes/images/spinner.gif) no-repeat center calc(50% - 12px);
+  background: #fff url(../../../../../wp-includes/images/spinner.gif) no-repeat center calc(50% - 12px);
   z-index: 10;
 }
 
